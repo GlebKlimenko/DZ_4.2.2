@@ -1,6 +1,5 @@
 package ru.netology;
 
-
 import com.codeborne.selenide.SelenideElement;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
